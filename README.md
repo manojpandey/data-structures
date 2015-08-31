@@ -1,4 +1,4 @@
-## Data Structures in C
+# Data Structures in C
 
 Implementation of :
 
@@ -144,13 +144,13 @@ Implementation of :
 
 		[ ] Balanced and PolyPhase mergesort
 
-### Files, queries and sequential organization
+##### Files, queries and sequential organization
 
-### Cylinder surface indexing
+##### Cylinder surface indexing
 
-### Tree indexing
+##### Tree indexing
 
-### Trie indexing
+##### Trie indexing
 
 ### Hashing
 	
