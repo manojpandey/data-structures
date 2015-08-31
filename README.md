@@ -2,181 +2,182 @@
 
 Implementation of :
 
-- Stacks
+### Stacks
 
-	- Static Implementation using arrays
+	    [ ] Static Implementation using arrays
 
-- Queues
+### Queues
 
-	- Insertion and Deletion
+	    [ ] Insertion and Deletion
 
-	- Circular queue
+	    [ ] Circular queue
 
-		- Using arrays
-		- Using Linked list
+	    	[ ] Using arrays
+	    
+	    	[ ] Using Linked list
 
-	- Priority Queue
+		[ ] Priority Queue
 
-	- Dequeue
+		[ ] Dequeue
 
-- Linked List
+### Linked List
 
-	- Creation, Traversing, Searching
+		[ ] Creation, Traversing, Searching
 
-	- Implementation of stack and queue
+		[ ] Implementation of stack and queue
 
-	- Circular linked list
+		[ ] Circular linked list
 
-- Doubly linked list
+### Doubly linked list
 	
-	- Traversal, Insertion and Deletion
+		[ ] Traversal, Insertion and Deletion
 
-	- Double circular linked list
+		[ ] Double circular linked list
 
-	- Sparse Matrices
+		[ ] Sparse Matrices
 
-- Searching
+### Searching
 
-	- Linear Search
+		[ ] Linear Search
 
-	- Binary Search
+		[ ] Binary Search
 
-- Trees
+## Trees
 
-	- Binary Tree
+		[ ] Binary Tree
 
-		- Complete, Full, and strictly binary tree
+			[ ] Complete, Full, and strictly binary tree
 
-	- Tree traversal
+		[ ] Tree traversal
 
-		- Preorder
+			[ ] Preorder
 
-		- Inorder
+			[ ] Inorder
 
-		- Postorder
+			[ ] Postorder
 
-	- Binary tree from a given traversal (pre, in or post- order)
+		[ ] Binary tree from a given traversal (pre, in or pos		[ ] order)
 
-	- Recursive algorithms for preorder, inorder, postorder traversals
+		[ ] Recursive algorithms for preorder, inorder, postorder traversals
 
-	- Threaded binary trees
+		[ ] Threaded binary trees
 
-	- Binary Search Tree
+		[ ] Binary Search Tree
 
-		- Build
+			[ ] Build
 
-		- Search
+			[ ] Search
 
-		- Insertion and Deletion
+			[ ] Insertion and Deletion
 
-	- Heap
+		[ ] Heap
 
-		- Build, Insertion and Deletion
+			[ ] Build, Insertion and Deletion
 
-	- Balanced trees
+		[ ] Balanced trees
 
-		- AVL tree
+			[ ] AVL tree
 
-			- Build, Indertion and Deletion
+				[ ] Build, Indertion and Deletion
 
-	- Multiway Search trees
+		[ ] Multiway Search trees
 
-		- B-Tree
+			[ ] ree
 
-			- Build, Insertion and Deletion
+				[ ] Build, Insertion and Deletion
 
-		- B+, B* Tree
+			[ ] B+, B* Tree
 
-		- Game trees, Decision trees
+			[ ] Game trees, Decision trees
 
-- Graphs
+## Graphs
 
-	- Representation
+		[ ] Representation
 
-		- Adjacency list, Adjacency matrix
+			[ ] Adjacency list, Adjacency matrix
 
-	- Breadth First Search
+		[ ] Breadth First Search
 
-	- Depth First Search
+		[ ] Depth First Search
 
-	- Connected components
+		[ ] Connected components
 
-	- Topological Sort
+		[ ] Topological Sort
 
-- Spanning tree
+### Spanning tree
 
-	- Kruskal's algorithm
+		[ ] Kruskal's algorithm
 
-	- Prim's algorithm
+		[ ] Prim's algorithm
 
-- Shortest Path
+### Shortest Path
 
-	- Dijkstra's algorithm
+		[ ] Dijkstra's algorithm
 
-	- Floyd Warshall
+		[ ] Floyd Warshall
 
-	- Activity network
+		[ ] Activity network
 
-	- Critical Path
+		[ ] Critical Path
 
-- Sorting
+### Sorting
 
-	- Selection Sort
+		[ ] Selection Sort
 
-	- Bubble sort
+		[ ] Bubble sort
 
-	- Insertion Sort
+		[ ] Insertion Sort
 
-	- Radix sort
+		[ ] Radix sort
 
-	- Merge sort
+		[ ] Merge sort
 
-	- Shell sort
+		[ ] Shell sort
 
-	- Heap sort
+		[ ] Heap sort
 
-	- Quick sort
+		[ ] Quick sort
 
-- External Sorting
+### External Sorting
 
-	- K-way mergesort
+		[ ] K-way mergesort
 
-	- Balanced and PolyPhase mergesort
+		[ ] Balanced and PolyPhase mergesort
 
-- Files, queries and sequential organization
+### Files, queries and sequential organization
 
-- Cylinder surface indexing
+### Cylinder surface indexing
 
-- Tree indexing
+### Tree indexing
 
-- Trie indexing
+### Trie indexing
 
-- Hashing
+### Hashing
 	
-	- Direct
+		[ ] Direct
 
-	- Subtraction
+		[ ] Subtraction
 
-	- Modulo division
+		[ ] Modulo division
 
-	- Mid square folding
+		[ ] Mid square folding
 
-	- Pseudorandom hashing
+		[ ] Pseudorandom hashing
 
-	- Collision reduction
+		[ ] Collision reduction
 
-		- Linear Probing
+			[ ] Linear Probing
 
-		- Quadratic Probe
+			[ ] Quadratic Probe
 
-		- Pseudorandom collision resolution
+			[ ] Pseudorandom collision resolution
 
-		- Linked list collision resolution
+			[ ] Linked list collision resolution
 
-	- Bucket hashing
+		[ ] Bucket hashing
 
-	- Linked organizatoions
+		[ ] Linked organizatoions
 
-	- Inverted files
+		[ ] Inverted files
 
-	- Cellular Partitions
+		[ ] Cellular Partitions
