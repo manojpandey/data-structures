@@ -82,7 +82,7 @@ Implementation of :
 
 		[ ] Multiway Search trees
 
-			[ ] ree
+			[ ] B-tree
 
 				[ ] Build, Insertion and Deletion
 
